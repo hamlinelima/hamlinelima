@@ -1,5 +1,9 @@
 
-### Hi, I'm Hamline!<br><br>👩🏻‍🎓A graduate with a Bachelor of Science in Information Technology (BSc IT) and a passion for software development. I'm excited to kickstart my career in the tech industry and contribute to meaningful projects<br/><br>👩‍💻 As a relentless problem-solver, I thrive on challenges and constantly seek ways to expand my skills and push boundaries.<br/><br>💬 I firmly believe in the power of collaboration and continuous learning.<br/><br>⚡ Besides software development, cybersecurity holds a special place in my heart. I'm passionate about leveraging my skills to protect digital assets and ensure online systems' security.<br/><br>  ![Hamline's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamlinelima&show_icons=true&theme=radical)
+Hi, I'm Hamline! 🌿<br><br>
+
+👩‍💻 I’m a Software Engineer with a Bachelor of Science in Information Technology (BSc IT), working across both frontend and backend development. I enjoy building scalable, user-focused solutions and turning complex problems into clean, efficient systems.<br><br>💡 I thrive in environments that challenge my thinking, support continuous learning, and value meaningful collaboration. Growth is central to my work — I iterate, refine, and improve with purpose.<br><br>
+🔐 I have a strong foundation in cybersecurity and a passion for secure-by-design engineering. Protecting digital systems and building with intentional security practices is an important part of how I develop software.<br><br>
+🤝 Whether working independently or within a team, I value clarity, curiosity, and dependable problem-solving.<br><br> ![Hamline's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamlinelima&show_icons=true&theme=radical)
 
 
 ## 🌐 Socials:
